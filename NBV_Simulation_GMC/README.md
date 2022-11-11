@@ -17,6 +17,6 @@ The system will read the configuration in the yaml and run single case. You may 
 ### Mode 1
 Give the object names in the Console (-1 to break input). Then give the tested method_of_IG in the Console. It will run with 5 initial views.
 ### Mode 2
-Give the object names in the Console (-1 to break input). You will run the ablation studies. The saving path needs to be modifed in the share_data.hpp (save_path += '_' + to_string(visble_rate); save_path += '_' + to_string(move_rate);).
+Give the object names in the Console (-1 to break input). You will run the ablation studies. The saving path needs to be modifed in the share_data.hpp (save_path += '\_' + to_string(visble_rate); save_path += '\_' + to_string(move_rate);).
 ### Mode 3
 Give the object names in the Console (-1 to break input). The maximum visible coveage will be computed for the certain view space of each object.
