@@ -9,7 +9,7 @@ ground_truth_resolution: 0.002
 num_of_max_iteration: 15
 show: 0
 move_wait : 0
-nbv_net_path: "D:/jupyter_pytorch_cpu/nbv-net-sphere"
+nbv_net_path: "../nbv-net-sphere"
 p_unknown_upper_bound: 0.65
 p_unknown_lower_bound: 0.45
 inner_sphere_radius_rate : 2.0
