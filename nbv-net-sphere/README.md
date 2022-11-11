@@ -11,4 +11,4 @@ pack.3.14.txt contains 14 sphere views.
 <br>
 run_test_5views.py is the inference file with the NBV system.
 <br>
-Some folders need to be created: data, log, run_time.
+Some folders need to be created: data, log, run_time here.
