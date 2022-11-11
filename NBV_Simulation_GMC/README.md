@@ -23,7 +23,7 @@ There is a parameter "show", by default is 0, which means that the middle cloud 
 ### Mode 1
 Give the object names in the Console (-1 to break input). Then give the tested method_of_IG in the Console. It will run with 5 initial views.
 <br>
-Note that if you want to run with NBV-Net(method_of_IG is6), you need to run both ./NBV_Simulation_GMC/main.exe and "python ./nbv-net-sphere/run_test_5views.py" in pytorch environment at the same time.
+Note that if you want to run with NBV-Net(method_of_IG is 6), you need to run both ./NBV_Simulation_GMC/main.exe and "python ./nbv-net-sphere/run_test_5views.py" in pytorch environment at the same time.
 ### Mode 2
 Give the object names in the Console (-1 to break input). You will run the ablation studies. The saving path needs to be modifed in the share_data.hpp (save_path += '\_' + to_string(visble_rate); save_path += '\_' + to_string(move_rate);).
 ### Mode 3
