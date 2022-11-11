@@ -7,4 +7,4 @@ Run with "./pcl_mesh_sampling.exe *.ply *.pcd -n_samples 100000 -leaf_size 0.5 -
 <br>
 Make sure there are enough points over 10000.
 <br>
-This sampling will result in the holes in some object surfaces, you can samller the size of the object to make surfaces closes.
+This sampling will result in the holes in some object surfaces, you can samller the size of the object to make surfaces closed.
