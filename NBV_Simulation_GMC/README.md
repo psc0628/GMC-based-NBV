@@ -11,8 +11,8 @@ Keep DefaultConfiguration.yaml in the correct path, and then run compiled progra
 <br>
 Input "0" in the Console.
 ## Usage
-The mode of the system should be input in the Console:
-0: read the configuration in the yaml and run single case. You may change name_of_pcd, method_of_IG, sampling_method_of_viewspace, and first_view_id.
+The mode of the system should be input in the Console.
+0. read the configuration in the yaml and run single case. You may change name_of_pcd, method_of_IG, sampling_method_of_viewspace, and first_view_id.
 <br>
 For method_of_IG, MCMF is 0, OA is 1, UV is 2, RSE is 3, APORA is 4, Kr is 5, NBVNET is 6, PCNBV is 7 (not support), SCO is 8, OurBasic is 9, GMC is 10.
 <br>
