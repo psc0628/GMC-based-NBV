@@ -3,6 +3,8 @@ Thanks for https://github.com/irvingvasquez/nbv-net.
 <br>
 This is the retrianed NBV-Net network on the HB dataset under 14 sphere candidate views.
 <br>
+Python 3.8.8 and Pytorch 1.8.1 are needed.
+<br>
 nbv_14_HB.pth.tar is the pre-trained network file.
 <br>
 all_name.txt contains inference object names.
