@@ -4,9 +4,6 @@ This is a repository for supporting our paper "A Global Generalized Maximum Cove
 <br>
 This GMC method is a somehow imporved version of our previous work Max-Flow-based method: "A Global Max-flow-based Multi-resolution Next-best-view Method for Reconstruction of 3D Unknown Objects" (doi: 10.1109/LRA.2021.3132430, Codes: https://github.com/psc0628/NBV-Simulation).
 ## File structure
-3d_models 
-The repository has five folders and two files.
-<br>
 3d_models contians an example of input object 3D model (a pcd file sampled by a ply file). 
 <br>
 GMC contains an example of output results (point clouds, girds and indicators) with viewspaces and the maximum visible coverage.
