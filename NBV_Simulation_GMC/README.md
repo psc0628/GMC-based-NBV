@@ -13,7 +13,11 @@ Input "0" in the Console.
 ## Usage
 The mode of the system should be input in the Console.
 ### Mode 0 
-The system will read the configuration in the yaml and run single case. You may change name_of_pcd, method_of_IG, sampling_method_of_viewspace, and first_view_id. For method_of_IG, MCMF is 0, OA is 1, UV is 2, RSE is 3, APORA is 4, Kr is 5, NBVNET is 6, PCNBV is 7 (not support), SCO is 8, OurBasic is 9, GMC is 10. For sampling_method_of_viewspace, 0 is random, 1 is uniform. For first_view_id, the initial view index is ranging from 0 to 1591.
+The system will read the configuration in the yaml and run single case. You may change name_of_pcd, method_of_IG, first_view_id, sampling_method_of_viewspace.
+<br>
+For method_of_IG, MCMF is 0, OA is 1, UV is 2, RSE is 3, APORA is 4, Kr is 5, NBVNET is 6, PCNBV is 7 (not support), SCO is 8, OurBasic is 9, GMC is 10.
+<br>
+For sampling_method_of_viewspace, 0 is random, 1 is uniform. For first_view_id, the initial view index is ranging from 0 to 1591.
 <br>
 There is a parameter "show", by default is 0, which means that the middle cloud will not be shown in a pcl window. If you want to show the middle cloud, change it to 1.
 ### Mode 1
