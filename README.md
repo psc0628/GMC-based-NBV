@@ -1,5 +1,5 @@
 # GMC-based-NBV
-This is a repository for supporting our paper "A Global Generalized Maximum Coverage-based Solution to the Non-model-based View Planning Problem for Object Reconstruction" (DOI: Coming soon).
+This is a repository for supporting our paper "A Global Generalized Maximum Coverage-based Solution to the Non-model-based View Planning Problem for Object Reconstruction" (DOI: 10.1016/j.cviu.2022.103585).
 <br>
 <br>
 This GMC method is a somehow imporved version of our previous work Max-Flow-based method: "A Global Max-flow-based Multi-resolution Next-best-view Method for Reconstruction of 3D Unknown Objects" (doi: 10.1109/LRA.2021.3132430, Codes: https://github.com/psc0628/NBV-Simulation).
